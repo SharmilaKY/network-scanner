@@ -1,0 +1,18 @@
+{
+    "scan_time": "2026-10-06T10:35:20.877737",
+    "target": "127.0.0.1",
+    "resolved_ip": "127.0.0.1",
+    "port_range": {
+        "start": 8000,
+        "end": 8100
+    },
+    "ports_scanned": 101,
+    "open_ports": 1,
+    "scan_duration_seconds": 0.53,
+    "results": [
+        {
+            "port": 8080,
+            "service": "HTTP-Alt"
+        }
+    ]
+}
